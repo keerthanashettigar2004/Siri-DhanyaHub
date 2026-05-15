@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಸಿರಿಧಾನ್ಯ ಹಬ್</string>
+    <string name="nav_monitor">ಮಾರುಕಟ್ಟೆ</string>
+    <string name="nav_cook">ಅಡುಗೆ</string>
+    <string name="nav_health">ಆರೋಗ್ಯ</string>
+    <string name="nav_direct">ನೇರ ಖರೀದಿ</string>
+    <string name="btn_ask">ಎಐ ಕೇಳಿ</string>
+    <string name="ai_thinking">ಸಿರಿಧಾನ್ಯ ಎಐ ಯೋಚಿಸುತ್ತಿದೆ...</string>
+    <string name="header_mandi">ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಮಾಹಿತಿ</string>
+    <string name="header_recipe">ಅಡುಗೆ ಸಲಹೆಗಳು</string>
+    <string name="header_health">ಸಿರಿಧಾನ್ಯ ಎಐ</string>
+    <string name="header_direct">ರೈತರಿಂದ ನೇರವಾಗಿ</string>
+</resources>

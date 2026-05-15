@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SiriDhanya Hub</string>
+    <string name="nav_monitor">Monitor</string>
+    <string name="nav_cook">Cook</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_direct">Direct</string>
+    <string name="btn_ask">Ask AI</string>
+    <string name="ai_thinking">SiriDhanya AI is thinking...</string>
+    <string name="header_mandi">Mandi Price Pulse</string>
+    <string name="header_recipe">Recipe Lab</string>
+    <string name="header_health">SiriDhanya AI</string>
+    <string name="header_direct">Farmer Direct</string>
+</resources>

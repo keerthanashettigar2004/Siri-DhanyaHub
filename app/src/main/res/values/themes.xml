@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SiriDhanyaHub" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#4F6D44</item> <!-- Earthy Green -->
+        <item name="android:windowBackground">#FCF9F6</item> <!-- Cream Background -->
+        <item name="android:statusBarColor">#FCF9F6</item> <!-- Matches Background -->
+        <item name="android:windowLightStatusBar">true</item> <!-- Makes status icons dark -->
+    </style>
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "502332828663",
+    "firebase_url": "https://siridhanyahub-d0c3c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "siridhanyahub-d0c3c",
+    "storage_bucket": "siridhanyahub-d0c3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502332828663:android:d99feaf81912a124919cf2",
+        "android_client_info": {
+          "package_name": "com.example.siri_dhanyahub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFok47zW-YBAE6VdNliduvhUn_7D0zT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502332828663:android:7538091937349573919cf2",
+        "android_client_info": {
+          "package_name": "com.example.siridhanyahub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFok47zW-YBAE6VdNliduvhUn_7D0zT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
